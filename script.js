@@ -67,7 +67,7 @@ function desencriptar(stringDesencriptada){
     }
     return stringDesencriptada;
 }
-// Funcion Boton Copiar
+// Funcion Boton Copiar definida
 // Referencia al textarea y al botón
 var textarea = document.querySelector(".mensaje1");
 var copyButton = document.querySelector(".btn-copiar");
